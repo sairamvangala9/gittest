@@ -1,2 +1,6 @@
 first line written from web after creating repository
+<<<<<<< HEAD
 line by sai
+=======
+*edited by shiva*
+>>>>>>> ec4cdc273eb69aa97f88ccbb8589c98069da0ea9
